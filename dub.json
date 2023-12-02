@@ -5,7 +5,6 @@
     "authors": ["Jack Lloyd", "Etienne Cimon", "See CREDITS.md for more."],
     "targetName": "botan",
     "targetType": "staticLibrary",
-    "targetPath": "build",
     "dependencies": {
         "memutils": { "version": "~>1.0.1" },
         "botan-math": { "version": "~>1.0.2" } 
